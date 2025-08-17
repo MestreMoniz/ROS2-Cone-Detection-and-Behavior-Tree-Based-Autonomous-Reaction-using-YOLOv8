@@ -69,7 +69,7 @@ Watch the robot in action performing autonomous cone detection and reactive navi
 
 Below is the visual representation of the Behavior Tree used for autonomous reaction after cone detection:
 
-![Behavior Tree Structure](images/behavior_tree.png)
+![Behavior Tree Structure](behavior_tree.png)
 
 *This diagram illustrates the event-driven flow where cone detection triggers a 360° rotation and integrates with the navigation pipeline.*
 
