@@ -58,6 +58,12 @@ ros2 launch nav2_costmap_filters_demo costmap_filter_info.launch.py
 - Triggers a 360° robot rotation upon detection.
 - Integrates with Nav2 navigation pipeline.
 
+- ## Project Video Demonstration
+
+Watch the robot in action performing autonomous cone detection and reactive navigation:
+
+[![Autonomous Cone Detection and Reactive Navigation](https://img.youtube.com/vi/ppR3qoQ4yzo/0.jpg)](https://youtu.be/ppR3qoQ4yzo)
+
 ## Improvements and Future Work
 
 - Improve detection accuracy with more robust training data.
